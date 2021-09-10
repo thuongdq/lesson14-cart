@@ -6,6 +6,7 @@ import CartContainer from './containers/CartContainer';
 import Footer from './components/Footer';
 //video 68
 // demo for git
+// thủ lam nưa
 class App extends Component {
     render() {
         return (
