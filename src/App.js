@@ -5,7 +5,8 @@ import MessageContainer from './containers/MessageContainer';
 import CartContainer from './containers/CartContainer';
 import Footer from './components/Footer';
 //video 68
-// demo for git
+// demo for git check again
+//h he he
 class App extends Component {
     render() {
         return (
